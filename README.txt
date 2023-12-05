@@ -1,0 +1,4 @@
+- This project uses UART commands to get the temperature value with DHT11 sensor.
+- Moreover, it uses timer and PWM to control speed of fan (there are 3 speed slections including LOW, MEDIUM, HIGH).
+- This project is writen by C programming language, HAL library and STM32F103C8T6 microcontroller.
+- This project is still expanded in the future.
